@@ -5,8 +5,8 @@
 Ce script permet de générer un fichier de configuration adapté à un switch réseau, selon les paramètres saisis par l'utilisateur (hostname, VLANs, ports taggés/untaggés...).
 
 ## 💻 Prérequis
-- Python 3.x
-- Aucun module externe nécessaire (ou lister les modules si besoin)
+- Python 3
+- module os nécessaire
 
 ## 🚀 Utilisation
 
